@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/rustamzak" target="blank"><img src="https://img.shields.io/twitter/follow/rustamzak?logo=twitter&style=for-the-badge" alt="rustamzak" /></a> </p>
 
-- 🔭 I’m currently working on **Trade Intellect, Trade Intellect POS, Trade Intellect Mobile**
+- 🔭 I’m currently working on **Trade Intellect, Trade Intellect Web, Trade Intellect API, Trade Intellect POS, Trade Intellect Mobile**
 
 - 🌱 I’m currently learning **Blazor, MuaiBlazor**
 
